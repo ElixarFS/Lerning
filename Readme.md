@@ -44,8 +44,6 @@ commit
  
 
 
- 
-
 
 
 
@@ -63,3 +61,5 @@ commit
 
  Изображение 
  ![Привет это дно](Dream_TradingCard.jpg)gi
+
+ Изменения из Гит HUB
